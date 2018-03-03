@@ -1,18 +1,9 @@
 - skill:
-  name: Python & Django
-  level: 98%
+  name: Python, Java, Ruby on Rails
+  level: 75%
 - skill:
-  name: Javascript & jQuery
-  level: 98%
+  name: C, C++, Java for Android, LaTeX, JavaScript
+  level: 55%
 - skill:
-  name: Angular
-  level: 98%
-- skill:
-  name: HTML5 & CSS
-  level: 95%
-- skill:
-  name: Ruby on Rails
-  level: 85%
-- skill:
-  name: Sketch & Photoshop
-  level: 60%
+  name: Solidity, R-programming, MatLab, Vue.js
+  level: 35%

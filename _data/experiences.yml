@@ -1,28 +1,20 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: Summer work experience
+  time: Summer 2017
+  company: Xanterra Parks and Resorts, Yellowstone National Park, WY, United States
+  details: "Serving in a guest cafeteria as an exchange visitor under a J1 Visa.
+            This program provides the opportunity for foreign visitors to experience
+            U.S. society and culture and engage with Americans."
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Android developer
+  time: 2017
+  company: 911 drinks, Popayán, Colombia
+  details: "Develop an Android application consisting of a shopping cart for a liquor
+            store located in Popayán. With more than 500 downloads, the app is available
+            for free on Google Play."
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Bilingual costumer service agent
+  time: 2015
+  company: Sitel S.A., Bogotá D.C
+  details: "Provide technical support by phone for Internet, TV and phone services to
+            Comcast customers in the United States."
